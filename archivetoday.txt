@@ -1,25 +1,18 @@
-# Title: Carolina's Block archive.today
-# Description: Blocks archive.today and all of its mirrors.
-# Homepage: https://github.com/carolinaisslaying/agh-lists
-# License: https://github.com/carolinaisslaying/agh-lists/blob/main/LICENSE
-# Issues: https://github.com/carolinaisslaying/agh-lists/issues
-# Expires: 1 day
-# Last modified: 04 Mar 2026 03:04 UTC
-# Version: 2026.0403.0304.1
-# Syntax: Domains (including possible subdomains)
-# Number of entries: 14
-#
-archive.today
-www.archive.today
-archive.is
-www.archive.is
-archive.ph
-www.archive.ph
-archive.li
-www.archive.li
-archive.vn
-www.archive.vn
-archive.fo
-www.archive.fo
-archive.md
-www.archive.md
+[Adblock Plus]
+! Title: Carolina's Block archive.today
+! Description: Blocks archive.today and all of its mirrors.
+! Homepage: https://github.com/carolinaisslaying/agh-lists
+! License: https://github.com/carolinaisslaying/agh-lists/blob/main/LICENSE
+! Issues: https://github.com/carolinaisslaying/agh-lists/issues
+! Expires: 1 day
+! Last modified: 04 Mar 2026 03:07 UTC
+! Version: 2026.0403.0307.1
+! Syntax: AdBlock
+! Number of entries: 6
+!
+||archive.is^
+||archive.ph^
+||archive.li^
+||archive.vn^
+||archive.fo^
+||archive.md^
