@@ -4,10 +4,10 @@
 # License: https://github.com/carolinaisslaying/agh-lists/blob/main/LICENSE
 # Issues: https://github.com/carolinaisslaying/agh-lists/issues
 # Expires: 1 day
-# Last modified: 04 Mar 2026 03:02 UTC
-# Version: 2026.0403.0302.1
+# Last modified: 04 Mar 2026 03:04 UTC
+# Version: 2026.0403.0304.1
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13
+# Number of entries: 14
 #
 archive.today
 www.archive.today
