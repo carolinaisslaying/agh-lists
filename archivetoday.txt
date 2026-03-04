@@ -1,0 +1,14 @@
+! Title: Carolina's Block archive.today
+! Description: Blocks archive.today and all of its mirrors.
+! Homepage: https://github.com/carolinaisslaying/agh-lists
+! License: https://github.com/carolinaisslaying/agh-lists/blob/main/LICENSE
+! Issues: https://github.com/carolinaisslaying/agh-lists/issues
+! Syntax: AdGuard Home/DNS
+! 
+||archive.today^
+||archive.is^
+||archive.ph^
+||archive.li^
+||archive.vn^
+||archive.fo^
+||archive.md^
