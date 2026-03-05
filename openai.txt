@@ -6,9 +6,9 @@
 ! Issues: https://github.com/carolinaisslaying/agh-lists/issues
 ! Expires: 1 day
 ! Last modified: 05 Mar 2026 12:37 UTC
-! Version: 2026.0503.1237.1
+! Version: 2026.0503.1237.2
 ! Syntax: AdBlock
-! Number of entries: 6
+! Number of entries: 5
 !
 ||chatgpt.com^
 ||openai.com^
