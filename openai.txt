@@ -1,0 +1,16 @@
+[Adblock Plus]
+! Title: Carolina's Block OpenAI websites
+! Description: Blocks OpenAI websites and services, such as ChatGPT and Sora.
+! Homepage: https://github.com/carolinaisslaying/agh-lists
+! License: https://github.com/carolinaisslaying/agh-lists/blob/main/LICENSE
+! Issues: https://github.com/carolinaisslaying/agh-lists/issues
+! Expires: 1 day
+! Last modified: 05 Mar 2026 12:37 UTC
+! Version: 2026.0503.1237.1
+! Syntax: AdBlock
+! Number of entries: 6
+!
+||chatgpt.com^
+||openai.com^
+||gpt.com^
+||sora.com^
